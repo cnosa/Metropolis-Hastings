@@ -22,10 +22,12 @@ md"""
 Thesis entitled *The Metropolis-Hastings Algorithm: Inverse Problems, Model Calibration, and the TOMGRO Model*
 
 
-Notebook done by **Carlos Nosa**. """
+Notebook done by **Carlos Nosa**. 
 
-# ╔═╡ 562abdd5-babf-4483-9c0b-04133d35a653
-md"""We are going to use the following packages:"""
+
+
+
+We are going to use the following packages:"""
 
 # ╔═╡ 792edd05-08c2-4dbb-a64e-4c59cb959d40
 md"""
@@ -36,6 +38,12 @@ md"""
 
 
 # ╔═╡ c291f54e-84da-480b-b68d-e2a15938e1f8
+
+
+# ╔═╡ db958a5f-87ee-4881-8373-a26c6e88ac6e
+
+
+# ╔═╡ 2fab4a02-e6b4-4766-a28a-34e2acd8fb72
 
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
@@ -1523,10 +1531,11 @@ version = "1.4.1+1"
 # ╟─063a9940-ac66-11ef-321b-93ea55dbb04e
 # ╟─9a9fd8dc-9dfa-4655-bf92-d96ac4a24029
 # ╟─1bb091c4-df93-4417-b92b-a5553f245d3a
-# ╟─562abdd5-babf-4483-9c0b-04133d35a653
 # ╠═f8fb92bb-38af-49bd-b2e9-315aa655f1ae
 # ╟─792edd05-08c2-4dbb-a64e-4c59cb959d40
 # ╠═704bcc48-d120-485a-a7ff-b21b6324b119
 # ╠═c291f54e-84da-480b-b68d-e2a15938e1f8
+# ╠═db958a5f-87ee-4881-8373-a26c6e88ac6e
+# ╠═2fab4a02-e6b4-4766-a28a-34e2acd8fb72
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
